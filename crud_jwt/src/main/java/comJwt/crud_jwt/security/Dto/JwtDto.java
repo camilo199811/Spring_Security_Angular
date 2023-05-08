@@ -7,7 +7,9 @@ import java.util.Collections;
 
 public class JwtDto {
 
+
     private String token;
+
 
 
     public JwtDto(String token) {
@@ -16,6 +18,7 @@ public class JwtDto {
 
     }
 
+    public JwtDto() {}
     public String getToken() {
         return token;
     }
