@@ -49,7 +49,7 @@ export class EditarProductoComponent implements OnInit{
           timeOut:3000,
           positionClass:'toast-top-center'
         });
-        this.router.navigate(['/lista']);
+
       }
     )
   }

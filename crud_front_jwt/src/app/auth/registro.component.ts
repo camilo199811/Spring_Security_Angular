@@ -18,18 +18,14 @@ export class RegistroComponent implements OnInit{
   email:string;
   password:string;
 
-  isLogged=false;
+
   errMsj:string;
   constructor(private tokenService:TokenService, private authService:AuthService, private router:Router,private toastr:ToastrService){
 
   }
 
   ngOnInit(): void {
-    if(this.tokenService.getToken){
-      this.isLogged=false;
 
-
-    }
   }
 
 
@@ -51,7 +47,7 @@ export class RegistroComponent implements OnInit{
           timeOut:3000,
           positionClass:'toast-top-center'
         });
-        //console.log(err.error.message);
+
       }
     );
   }
