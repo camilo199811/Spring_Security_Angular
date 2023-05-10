@@ -4,7 +4,7 @@ Este es un CRUD basico elaborado con tecnologia Java-Springboot-Angular implemen
 con JWT y documentacion con Swagger  
 
 ## Autor 
-**Camilo Porras **
+**Camilo Porras**
 
 * [LinkedIn] (https://www.linkedin.com/in/camilo-porras-459895171/) 
 
