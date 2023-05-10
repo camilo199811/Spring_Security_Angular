@@ -10,7 +10,7 @@ con JWT y documentacion con Swagger
 
 ## Instalación
 
-Este proyecto requiere tene instalado Java 11 y Angular 15 para su correcto  funcio
+Este proyecto requiere Java 11 y Angular 15 para su correcto funcionamiento
 
 ##  Información 
 Si deseas contactarme lo puedes hacer al siguiente correo electronico camiloporras98@gmail.com
